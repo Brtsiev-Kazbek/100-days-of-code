@@ -16,3 +16,11 @@
 **Thoughts:** t was quite difficult to get started. For a long time I could not decide on the first project.
 
 **Link to work:** [Markdown-editor](https://github.com/Brtsiev-Kazbek/markdown-editor)
+
+### Day 2: September 14, 2021
+
+**Today's Progress**: Refactored and added an tables support in my Markdown Editor.
+
+**Thoughts:** Today I did not manage as much as I would like, but I worked for an hour and a half.
+
+**Link to work:** [Markdown-editor](https://github.com/Brtsiev-Kazbek/markdown-editor)
