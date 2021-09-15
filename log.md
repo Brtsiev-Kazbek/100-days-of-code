@@ -24,3 +24,11 @@
 **Thoughts:** Today I did not manage as much as I would like, but I worked for an hour and a half.
 
 **Link to work:** [Markdown-editor](https://github.com/Brtsiev-Kazbek/markdown-editor)
+
+### Day 3: September 15, 2021
+
+**Today's Progress**: Fixed the work of the site for the customer.
+
+**Thoughts:** Looking for ideas for a new web application.
+
+**Link to work:** [My github](https://github.com/Brtsiev-Kazbek/)
