@@ -33,7 +33,7 @@
 
 **Link to work:** [My github](https://github.com/Brtsiev-Kazbek/)
 
-### Day 4: September 15, 2021
+### Day 4: September 16, 2021
 
 **Today's Progress**: Started a new todo-project.
 
