@@ -32,3 +32,11 @@
 **Thoughts:** Looking for ideas for a new web application.
 
 **Link to work:** [My github](https://github.com/Brtsiev-Kazbek/)
+
+### Day 4: September 15, 2021
+
+**Today's Progress**: Started a new todo-project.
+
+**Thoughts:** No one:c.
+
+**Link to work:** [Mobile todo](https://github.com/Brtsiev-Kazbek/mobile-todo)
